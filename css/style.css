@@ -1704,7 +1704,6 @@ button[type=submit] {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  padding: 150px 0;
 }
 .recent-posts b {
   display: block;
@@ -2348,7 +2347,9 @@ button[type=submit] {
   text-transform: uppercase;
   letter-spacing: 2px;
   margin-bottom: 40px;
-  opacity: 0.5;
+  margin-left: 20px;
+  opacity: 1.5;
+  color: #000;
 }
 .sales-team figure figcaption small:after {
   content: "";
